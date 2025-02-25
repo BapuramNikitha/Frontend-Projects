@@ -17,3 +17,15 @@ Buttons & Forms: Style buttons and input fields for a better user experience.
 Hover Effects: Add hover animations for interactivity.
 Buttons & Forms: Style buttons and input fields for a better user experience.
 Hover Effects: Add hover animations for interactivity.
+
+
+
+
+
+
+Layout: Use flexbox or grid to align content properly.
+Colors & Fonts: Apply a professional color scheme and readable fonts.
+Buttons & Forms: Style buttons and input fields for a better user experience.
+Hover Effects: Add hover animations for interactivity.
+Buttons & Forms: Style buttons and input fields for a better user experience.
+Hover Effects: Add hover animations for interactivity.
